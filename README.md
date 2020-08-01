@@ -1,5 +1,18 @@
 ### Hi there, I'm xCrypt0r! 👋
 
+<a href="https://twitter.com/Crypt0rX">
+  <img align="left" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">
+</a>
+<a href="https://discord.gg/35Y8ePX">
+  <img align="left" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png">
+</a>
+
+
+I'm a student developer  
+I have been programming since the end of 2019  
+My goal is being a full-stack developer  
+I enjoys writing JS, CS, & GO  
+
 
 **Languages and Tools:**  
 
