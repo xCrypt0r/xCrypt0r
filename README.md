@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm xCrypt0r! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![xCryptor's github stats](https://github-readme-stats.vercel.app/api?username=xCrypt0r&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&hide=css,html">
+</p>
