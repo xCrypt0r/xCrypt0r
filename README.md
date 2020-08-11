@@ -73,6 +73,6 @@ I enjoys writing JS, CS, & GO
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&count_private=true&line_height=22">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&layout=compact&hide=">
+  <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&count_private=true&line_height=21">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&layout=compact">
 </p>
