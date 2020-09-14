@@ -78,5 +78,5 @@ I enjoys writing JS, CS, & GO
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&count_private=true&line_height=21">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&layout=compact&hide=html">
 </p>
