@@ -76,7 +76,10 @@ I enjoys writing JS, CS, & GO
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xcrypt0r)](https://solved.ac/xcrypt0r)
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&count_private=true&line_height=21">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&layout=compact&hide=html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&layout=compact">
 </p>
