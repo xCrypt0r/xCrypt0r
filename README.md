@@ -78,6 +78,6 @@ I enjoys writing JS, CS, & GO
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&count_private=true&line_height=21">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&show_icons=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&count_private=true&line_height=24">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&langs_count=8&show_icons=true&count_private=true&layout=compact">
 </p>
