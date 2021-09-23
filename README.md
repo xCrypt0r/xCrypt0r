@@ -45,7 +45,6 @@ I enjoys writing JS, CS, & GO
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg"></code>
 
-
 * Game Hack & Macro  
 <code><img height="20" src="https://raw.githubusercontent.com/cheat-engine/cheat-engine/master/Cheat%20Engine/images/celogo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_autohotkey.svg"></code>
@@ -65,5 +64,3 @@ I enjoys writing JS, CS, & GO
   <img src="https://github-readme-stats.vercel.app/api?username=xCrypt0r&show_icons=true&theme=dark&count_private=true&line_height=24">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCrypt0r&theme=dark&langs_count=8&show_icons=true&count_private=true&layout=compact">
 </p>
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
