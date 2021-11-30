@@ -52,6 +52,7 @@ I enjoys writing JS, CS, & GO
 
 * Bot  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
+<code><img height="20" src="https://blog.kakaocdn.net/dn/Sq4OD/btqzlkr13eD/dYwFnscXEA6YIOHckdPDDk/img.jpg"></code>
 
 **What I am learning:**  
 * <code><img height="20" src="http://m.office-365.co.kr/web/product/big/201605/9_shop1_168947.jpg"></code>
